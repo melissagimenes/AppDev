@@ -1,0 +1,6 @@
+//files to be ignored
+
+temp.txt
+*.o
+score
+pascal/
